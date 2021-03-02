@@ -7,3 +7,9 @@
 0.0.0.0 ads.samsungads.com
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 config.samsungads.com
+0.0.0.0 eu-auth2.samsungosp.com
+0.0.0.0 img-resize-cdn-prod.samsungnyc.com
+0.0.0.0 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
+0.0.0.0 osb-v2.samsungqbe.com
+0.0.0.0 scs.samsungqbe.com
+0.0.0.0 uimetadata.samsungiotcloud.com
