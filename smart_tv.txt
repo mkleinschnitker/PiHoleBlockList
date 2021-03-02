@@ -6,4 +6,4 @@
 # Samsung
 0.0.0.0 ads.samsungads.com
 0.0.0.0 cdn.samsungcloudsolution.com
-0.0.0.0
+0.0.0.0 config.samsungads.com
